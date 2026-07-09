@@ -193,4 +193,3 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhyNmRvYWtudW4yYzU3NWFyNn
 <p align="center">
   <em>Building reliable infrastructure through cloud engineering, automation, and DevOps.</em>
 </p>
-
