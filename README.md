@@ -13,6 +13,16 @@
 
 ---
 
+## ♾️ DevSecOps Toolchain Diagram
+
+<p align="center">
+  <img
+    src="images/devsecops_infographic_with_tools_map.png"
+    alt="DevSecOps infinity loop showing Code, Plan, Build, Test, Release, Deploy, Operate, and Monitor, with associated DevSecOps tools"
+    width="80%"
+  />
+</p>
+
 ## 👩‍💻 About Me
 
 <img
@@ -40,74 +50,102 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhyNmRvYWtudW4yYzU3NWFyNn
 
 ## 🛠️ Cloud, DevOps and Platform Engineering Stack
 
-### ☁️ Cloud Platforms
+## 🧰 DevOps, Cloud & Agile Stack
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)](https://cloud.google.com/)
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)](https://azure.microsoft.com/)
+<p align="center">
 
-### 🏗️ Infrastructure as Code
+<!-- Cloud Platforms -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" height="24"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" height="24"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" height="24"/>
 
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)](https://www.terraform.io/)
-[![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-759C3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)](https://aws.amazon.com/cloudformation/)
+<!-- Infrastructure as Code and Configuration Management -->
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" height="24"/>
+<img src="https://img.shields.io/badge/AWS_CloudFormation-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CloudFormation" height="24"/>
+<img src="https://img.shields.io/badge/Azure_ARM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure ARM" height="24"/>
+<img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" height="24"/>
+<img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black" alt="Puppet" height="24"/>
+<img src="https://img.shields.io/badge/Chef-F09820?style=flat-square&logo=chef&logoColor=white" alt="Chef" height="24"/>
 
-### 🔀 Version Control and Collaboration
+<!-- Containers and Orchestration -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="24"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" height="24"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" height="24"/>
+<img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kustomize" height="24"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" height="24"/>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)](https://www.atlassian.com/software/jira)
+<!-- CI/CD and GitOps -->
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" height="24"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" height="24"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" height="24"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" height="24"/>
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" height="24"/>
+<img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Apache Maven" height="24"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" height="24"/>
 
-### ♾️ CI/CD and GitOps
+<!-- Source Control -->
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="24"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="24"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" height="24"/>
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" height="24"/>
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)](https://github.com/features/actions)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)](https://www.jenkins.io/)
-[![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)](https://argo-cd.readthedocs.io/)
+<!-- Monitoring, Logging and Observability -->
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" height="24"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" height="24"/>
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" height="24"/>
+<img src="https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black" alt="New Relic" height="24"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" height="24"/>
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="Elastic Stack" height="24"/>
 
-### 📦 Build and Artifact Management
+<!-- DevSecOps and Code Quality -->
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqubecloud&logoColor=white" alt="SonarQube" height="24"/>
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk" height="24"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" height="24"/>
+<img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" alt="HashiCorp Vault" height="24"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" height="24"/>
 
-[![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)](https://maven.apache.org/)
-[![Sonatype Nexus](https://img.shields.io/badge/Sonatype_Nexus-1B1C30?style=for-the-badge\&logo=sonatype\&logoColor=white)](https://www.sonatype.com/products/sonatype-nexus-repository)
+<!-- Operating Systems and Scripting -->
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="24"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" height="24"/>
+<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat" height="24"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" height="24"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" height="24"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="24"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="24"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML" height="24"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" height="24"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" height="24"/>
 
-### 🔐 Security and Code Quality
+<!-- Databases, Messaging and Caching -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="24"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="24"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="24"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" height="24"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" height="24"/>
 
-[![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge\&logo=aqua\&logoColor=white)](https://trivy.dev/)
-[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
+<!-- Testing and API Tools -->
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" height="24"/>
+<img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="Apache JMeter" height="24"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" height="24"/>
 
-### 💻 Programming and Scripting
+<!-- Agile, Collaboration and Project Management -->
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" height="24"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" height="24"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" height="24"/>
+<img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white" alt="Asana" height="24"/>
+<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white" alt="Miro" height="24"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" height="24"/>
+<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" alt="Microsoft Teams" height="24"/>
+<img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logoColor=white" alt="Scrum" height="24"/>
+<img src="https://img.shields.io/badge/Kanban-0085CA?style=flat-square&logoColor=white" alt="Kanban" height="24"/>
+<img src="https://img.shields.io/badge/Agile-6DB33F?style=flat-square&logoColor=white" alt="Agile" height="24"/>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Apache Groovy](https://img.shields.io/badge/Apache_Groovy-4298B8?style=for-the-badge\&logo=apachegroovy\&logoColor=white)](https://groovy-lang.org/)
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)](https://www.gnu.org/software/bash/)
+<!-- Development Tools -->
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" height="24"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" height="24"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" height="24"/>
 
-### 🐳 Containers and Orchestration
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com/)
-[![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://docs.docker.com/compose/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)](https://kubernetes.io/)
-[![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge\&logo=amazoneks\&logoColor=white)](https://aws.amazon.com/eks/)
-[![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge\&logo=amazonecs\&logoColor=white)](https://aws.amazon.com/ecs/)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)](https://helm.sh/)
-
-### 🗄️ Databases
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
-[![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge\&logo=amazondynamodb\&logoColor=white)](https://aws.amazon.com/dynamodb/)
-
-### 📊 Monitoring, Logging and Observability
-
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)](https://grafana.com/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge\&logo=elasticsearch\&logoColor=white)](https://www.elastic.co/elasticsearch/)
-[![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge\&logo=logstash\&logoColor=white)](https://www.elastic.co/logstash/)
-[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge\&logo=kibana\&logoColor=white)](https://www.elastic.co/kibana/)
-[![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge\&logo=fluentd\&logoColor=white)](https://www.fluentd.org/)
-[![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge\&logo=fluentbit\&logoColor=white)](https://fluentbit.io/)
-
-### 🌐 Web Servers
-
-[![Apache HTTP Server](https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=for-the-badge\&logo=apache\&logoColor=white)](https://httpd.apache.org/)
-[![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge\&logo=nginx\&logoColor=white)](https://nginx.org/)
-
+</p>
 ---
 
 ## 📈 GitHub Statistics
